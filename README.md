@@ -1,1 +1,1 @@
-# adots
+# dotfiles for Arch
