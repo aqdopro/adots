@@ -15,4 +15,4 @@ To use these dotfiles on your system, follow these steps:
    Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/dotfiles.git ~/dotfiles
+   git clone https://github.com/aqdopro/dotfiles.git ~/dotfiles
